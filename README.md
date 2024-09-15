@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melchilegion
+- 👋 Hi, I’m Nyapson Melchisedec Danjuma
 - 👀 I’m interested in Software Engineering, Data Science and Machine Learning
 - 🌱 I’m currently learning Software Engineering at ALX Academy, AI/ML at ATLAS Africa Academy and Data Science at QWASAR.IO Silicon Valley
 - 💞️ I’m looking to collaborate on Projects
