@@ -1,4 +1,4 @@
-👋 Hi there! I'm Nyapson Melchisedec Danjuma, a passionate Data Scientist and AI/ML Consultant dedicated to leveraging data to drive impactful insights and innovative solutions.
+👋 Hi there! I'm **Nyapson Melchisedec Danjuma**, a passionate **Data Scientist and AI/ML Consultant** dedicated to leveraging data to drive impactful insights and innovative solutions.
 
 🔍 **About Me:**
 With a strong foundation in Computer Science, Data Analytics, Machine Learning, and Artificial Intelligence, I thrive on transforming complex data into actionable and insightful strategies. I enjoy exploring cutting-edge technologies and applying them to solve real-world problems.
